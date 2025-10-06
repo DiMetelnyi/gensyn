@@ -3,7 +3,8 @@
 ### The Gensyn Protocol is a layer-1 trustless protocol for deep learning computation that directly and immediately rewards supply-side participants for pledging their compute time to the network and performing ML tasks.
 -------------------
 
-![image](https://github.com/user-attachments/assets/779fe974-66bf-4b7b-8231-02a66c3dbd35)
+<img width="1555" height="696" alt="image" src="https://github.com/user-attachments/assets/7abe7c07-f9de-4b99-9151-7518267a836c" />
+
 
 
 # Where to get a node?
