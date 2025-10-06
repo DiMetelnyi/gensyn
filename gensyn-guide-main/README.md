@@ -173,23 +173,6 @@ Go to your terminal and run
 After that restart your VPS and try again
 
 
-## Access ```.pem``` file and save ```swarm.pem``` to your local PC
-### Desktop/workspace/rl-swarm/swarm.pem
-![image](https://github.com/user-attachments/assets/4ef4e8be-3ee2-43dc-9d20-79a156d29e38)
-#### (!!! THIS FILE IS YOUR ACTUAL NODE YOUR EMAIL WILL BE LINKED TO THIS .PEM FILE, YOU CAN ONLY USE 1 EMAIL PER NODE ID OR ELSE IT WONT GENERATE A CA FOR YOUR NODE ID CHECK NEXT STEP !!!)
-#### (!!! IF YOU WANT TO TRANSFER TO ANOTHER VPS WITH THE SAME NODE ID, YOU NEED TO COPY THE .PEM FILE TO THERE AND LOGIN WITH SAME EMAIL AS U USED TO SIGN UP FOR THAT NODE ID !!!)
-
----
-
-
-## Search your Node ID
-### in @gensyntrackbot from Telegram to see if your Node ID is binded with a EVM CA, if not delete your userdata from rl-swarm/modal-login/temdata/ and delete both files in there -> rerun the swarm and login with different email.
-![image](https://github.com/user-attachments/assets/7edd4203-c2b4-45ca-ae30-61720a1a1282)
-### You can find your node name in your terminal, its a animal name with your node id behind it (starts with QM) after it starts training rounds (can take an hour or less)
-![image](https://github.com/user-attachments/assets/0d2511a2-b69f-4680-b0bc-f0659e135a42)
-
-
-
 # Official guide 
 [Check Official guide](https://github.com/gensyn-ai/rl-swarm?tab=readme-ov-file)
-Support me on X https://x.com/0xwycee
+
