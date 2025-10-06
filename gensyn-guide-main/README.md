@@ -162,7 +162,7 @@ source .venv/bin/activate
 ![image](https://github.com/user-attachments/assets/0eb0a771-3afb-4640-a8a3-38aac53f0aeb)
 
 Now open Browser and Input 
-```http://localhost:3000/``` 
+```http://localhost:3000/``` (paste it into the browser on your server)
 
 
 
