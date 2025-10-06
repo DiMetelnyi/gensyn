@@ -164,13 +164,19 @@ source .venv/bin/activate
 Now open Browser and Input 
 ```http://localhost:3000/``` 
 
-![2025-04-02_00h05_35](https://github.com/user-attachments/assets/fbe91e2a-9072-40ca-9794-77753969963c)
 
-## If you get this error
-![image](https://github.com/user-attachments/assets/22c95d21-1515-414e-8980-5d37c5bad728)
-Go to your terminal and run
-```cd /root/rl-swarm/modal-login/ && yarn upgrade &&  yarn add next@latest &&  yarn add viem@latest```
-After that restart your VPS and try again
+
+We choose whether we want the data to also go to your Higging Fase then double enter
+then if u want be in jadge activity, i chose y
+<img width="1392" height="624" alt="image" src="https://github.com/user-attachments/assets/e7e25bb9-71a0-4512-a8ec-253979f4b881" />
+
+
+it should be like this
+<img width="1554" height="250" alt="image" src="https://github.com/user-attachments/assets/7ff22a92-60fb-4548-b52b-991a24fd4087" />
+
+
+and node id appear here 
+https://dashboard.gensyn.ai/?application=RLSwarm
 
 
 # Official guide 
