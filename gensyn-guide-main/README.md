@@ -15,7 +15,8 @@
 - Go to instances page and open your server
 - From the service list chose: 6200 > KDE Plasma Desktop (VNC Fallback) > Direct Link
 
-Now you should see your VPS screen![image](https://github.com/user-attachments/assets/c3d1528f-defc-4251-b4c0-6ce5b1903bb4)
+Now you should see your VPS screen<img width="1560" height="875" alt="image" src="https://github.com/user-attachments/assets/827006ed-5c17-42df-8e19-a3ba3bcea084" />
+
 
 
 ---
@@ -101,14 +102,14 @@ sudo apt-get install -y docker-ce docker-ce-cli containerd.io docker-buildx-plug
 ```
 sudo apt install python3 -y && sudo apt install python3-pip -y
 ```
-![image](https://github.com/user-attachments/assets/9608067a-c0a1-4572-87cc-d606c239c72a)
+
 
 
 ## Install Dev. tool 
 ```
 sudo apt install python3-dev python3-venv build-essential -y
 ```
-![image](https://github.com/user-attachments/assets/5a138859-9483-4028-b676-c942a3b5c034)
+
 
 
 ## Install Yarn
@@ -129,8 +130,6 @@ git clone https://github.com/gensyn-ai/rl-swarm
 ```
 cd rl-swarm
 ```
-
-![image](https://github.com/user-attachments/assets/d033e5ce-ff44-49d8-97c6-c0268061aeb3)
 
 
 ### Install screen 
