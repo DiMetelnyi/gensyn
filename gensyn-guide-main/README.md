@@ -153,13 +153,10 @@ source .venv/bin/activate
 ./run_rl_swarm.sh
 ```
 
-![2025-04-01_22h30_09](https://github.com/user-attachments/assets/a48558bd-9f88-4ac9-8c26-2b437ac2e5ac)
-
 
 ---
 
 ## Wait till you see ```waiting for UserData.json to be created```
-![image](https://github.com/user-attachments/assets/0eb0a771-3afb-4640-a8a3-38aac53f0aeb)
 
 Now open Browser and Input 
 ```http://localhost:3000/``` (paste it into the browser on your server)
